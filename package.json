@@ -1,0 +1,24 @@
+{
+  "name": "2813ict-week3-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-U-A/2813ICT-Week3-Workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-U-A/2813ICT-Week3-Workshop/issues"
+  },
+  "homepage": "https://github.com/R-U-A/2813ICT-Week3-Workshop#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-session": "^1.17.3"
+  }
+}
